@@ -1,1 +1,2 @@
-# jbs ostateczna wersja
+# jbs 
+# readme
