@@ -1,1 +1,2 @@
-# jbs readme test test2 test3
+# jbs readme  test3
+# dupa idziemy
