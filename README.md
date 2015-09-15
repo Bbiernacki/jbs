@@ -1,2 +1,2 @@
-# jbs 
-# readme
+# jbs ostateczny
+
