@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 # jbs
+# test
 
-# code
-=======
-# jbs 
-# readme
->>>>>>> origin/master
